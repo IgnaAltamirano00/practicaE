@@ -1,0 +1,7 @@
+1) git status. Al poner esto, el git bash pone error fatal. Esto es porque no se habia inicilizado el repositorio de git por git init
+una vez hecho nos pone que estamos en la rama master y que no tenemos ningun commit hecho.
+2) git status. Muestra lo mismo que mostro antes. Co hay ningun commit hecho todavia, es decir, el directorio no esta en el area de staging todavia para subirlo al remoto
+3) git status. Aca nos pone que no hay un cambio que esta para subirse, que es el cambio realizado anteriormente. Lo que hay que hacer es volver a hacer git add . y git commit
+4) git log. Con el git log vemos la informacion relacionada a los git hechos antes. Nombre/codigo del commit, Autor y fecha, con el comentario "" que le puse.
+5) git log. Aniade a lo ya visto, en el ultimo commit realizado, el origin/main, que muestra la conexion hecha entre el local y el remoto.
+6) 
